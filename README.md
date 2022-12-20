@@ -1,6 +1,6 @@
 # Movie Checker App
 
-Application to check movies streaming avalibality across countries and platforms
+Application to check movies streaming availability across countries and platforms
 
 ## Table Of Contents
 
